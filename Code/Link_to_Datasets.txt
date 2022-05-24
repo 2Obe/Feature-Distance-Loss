@@ -1,0 +1,14 @@
+cifar10: in Keras
+	
+cifar100: in Keras
+
+minimagesnet: https://www.kaggle.com/datasets/whitemoon/miniimagenet. 
+The original miniImageNet dataset has 100 classes. which are divided into 64 for training, 16 for validation and 20 for testing. 
+However, in our experiments, we reconstruct the dataset to 100 classes, and each class has 600 images. 
+400 samples per class are for training, 80 samples per class are for validation and 120 samples are for testing. 
+
+NEU: http://faculty.neu.edu.cn/yunhyan/NEU surface defect d atabase.html
+
+TEX: https://www.kaggle.com/belkhirnacim/textiledefectdetection
+
+BSD: https://publikationen.bibliothek.kit.edu/1000133819
